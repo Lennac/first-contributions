@@ -96,7 +96,6 @@ Edison Shek
 - [Jeffrey Haywood](https://github.com/jeffreyjhaywood)
 - [Jack Lin](https://github.com/gmfcd128/)
 - [Priyanka Saggu](https://github.com/Priyankasaggu11929)
-- [Andrew Cannell](https://github.com/Lennac)
 - [Mathilde Pind] (https://github.com/mathildepind)
 - [Massimo7](https://github.com/Massimo7)
 - [Sergio Abreu García](https://github.com/saggamedeveloper)
